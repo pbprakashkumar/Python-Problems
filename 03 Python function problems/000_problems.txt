@@ -1,0 +1,11 @@
+Python Function Programs
+
+028.	Python Program to Find LCM
+029.	Python Program to Find HCF
+030.	Python Program to Convert Decimal to Binary, Octal and Hexadecimal
+031.	Python Program To Find ASCII value of a character
+032.	Python Program to Make a Simple Calculator
+033.	Python Program to Display Calendar
+034.	Python Program to Display Fibonacci Sequence Using Recursion
+035.	Python Program to Find Factorial of Number Using Recursion
+ 

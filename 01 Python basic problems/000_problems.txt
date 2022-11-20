@@ -1,0 +1,19 @@
+Python Basic Programs
+
+001.	Python program to print "Hello Python"
+002.	Python program to do arithmetical operations
+003.	Python program to find the area of a triangle
+004.	Python program to solve quadratic equation
+005.	Python program to swap two variables using third variable
+006.	Python program to swap two variables without using third variable
+007.	Python program to generate a random number
+008.	Python program to convert kilometers to miles
+009.	Python program to convert Celsius to Fahrenheit
+010.	Python program to display calendar
+011.	Python Program to Check if a Number is Positive, Negative or Zero
+012.	Python Program to Check if a Number is Odd or Even
+013.	Python Program to Check Leap Year
+014.	Python Program to Find the Factorial of a Number
+015.	Python Program to Display the multiplication Table
+016.	Python Program to Print the Fibonacci sequence
+017.	Python Program to Find the Sum of Natural Numbers

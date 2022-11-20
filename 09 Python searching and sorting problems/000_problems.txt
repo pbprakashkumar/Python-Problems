@@ -1,0 +1,8 @@
+Python Searching and Sorting Programs
+
+072.    Binary Search in Python
+073.    Linear Search in Python
+074.    Bubble Sort in Python
+075.    Insertion Sort in Python
+076.    Selection Sort in Python
+077.    Merge Sort in Python

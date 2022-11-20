@@ -1,0 +1,17 @@
+Python Array Programs
+
+036.	Python program to copy all elements of one array into another array
+037.	Python program to find the frequency of each element in the array
+038.	Python program to left rotate the elements of an array
+039.	Python program to print the duplicate elements of an array
+040.	Python program to print the elements of an array
+041.	Python program to print the elements of an array in reverse order
+042.	Python program to print the elements of an array present on even position
+043.	Python program to print the elements of an array present on odd position
+044.	Python program to print the largest element in an array
+045.	Python program to print the smallest element in an array
+046.	Python program to print the number of elements present in an array
+047.	Python program to print the sum of all elements in an array
+048.	Python program to right rotate the elements of an array
+049.	Python program to sort the elements of an array in ascending order
+050.    Python program to sort the elements of an array in descending order

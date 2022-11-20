@@ -1,0 +1,12 @@
+Python List Programs
+
+053.    Python Program to append element in the list
+054.    Python Program to compare two lists
+055.    Python Program to convert list to dictionary
+056.    Python Program to remove an element from a list
+057.    Python Program to add two lists
+058.    Python Program to convert List to Set
+059.    Python Program to convert list to string
+
+
+ 

@@ -1,0 +1,12 @@
+Python Number Programs
+
+018.	Python Program to Check Prime Number
+019.	Python Program to Print all Prime Numbers in an Interval
+020.	Python Program to Check Armstrong Number
+021.	Python Program to Find Armstrong Number in an Interval
+022.	Python program to check if the given number is a Perfect Number or not
+023.	Python program to print all Perfect numbers between the given interval
+024.	Python program to check if the given number is a Disarium Number
+025.	Python program to print all Disarium numbers between the given interval
+026.	Python program to check if the given number is Happy Number
+027.    Python program to print all Happy numbers between the given interval

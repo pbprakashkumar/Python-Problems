@@ -1,0 +1,9 @@
+# 008)	Python program to convert kilometers to miles
+
+""" 
+1 kilo meter = 0.621371 miles
+"""
+a=float(input("Enter distance in Kilomer:"))
+miles= 0.621371*a
+print("Distance in kilometer = ", a)
+print("Distance in miles     = ", miles)
